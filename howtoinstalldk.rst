@@ -5,13 +5,13 @@ How to install DataKund
 
    * A chrome page like shown in image below will open.
    
-.. image:: 1.jpg
+.. image:: 11.png
 
 * **Step2:** On the top of the page, there is downloads option along with bot store, build a scraper and videos.
 
    * click on "downloads", as shown in image below.
 
-.. image:: 2.jpg
+.. image:: 12.png
    
 * **Step3:** After clicking on the "downloads", a page like in Image 3 appears.
 
@@ -19,13 +19,13 @@ How to install DataKund
     
     * Click the link to download Datakund.
    
-.. image:: 3.jpg
+.. image:: 13.png
    
 * **Step4:** Download will start immediately, and wait for it to download.
 
    * When the download is done, double click the Datakund.exe file as shown in Image 3 to install Datakund.
    
-.. image:: 4.jpg
+.. image:: 14.png
    
 * **Step5:** A pop up window appears.
 
@@ -33,17 +33,17 @@ How to install DataKund
    
    * next click "next" as shown in the Image below, to go to the next step in installing Datakund. 
    
-.. image:: 5.jpg
+.. image:: 15.png
 
 * **Step6:** Next process includes weather to create a desktop shortcut.
  
   * check it and then click "next" at the bottom of the pop up window as shown in Image below.
 
-.. image:: 6.jpg
+.. image:: 16.png
 
 * **Step7:** Now to finish the setup click "install", in the pop up window as shown in the Image 7 to install Datakund.  
 
-.. image:: 5.jpg
+.. image:: 17.png
 
 * **Step8:** Wait for it to install.
 
@@ -53,24 +53,24 @@ How to install DataKund
    
    * click "finish" to end the setup as shown in Image below. 
    
-.. image:: 5.jpg
+.. image:: 18.png
 
 * **Step9:** Datakund will automatically launch and wait for chome window to open as shown in Image below.
    
-.. image:: 5.jpg
+.. image:: 19.png
 
 * **Step10:** Click the extension button at the top right corner of the chrome window
 
    * pin the Datakund extention to the chrome toolbar  and click Datakund to run as seen in Image below.
    
-.. image:: 5.jpg
+.. image:: 20.png
 
 * **Step11:** In the extension window, login window appears as shown in Image 11.
 
    * Login through google in the Datakund extension to make bot or to search for existing bot.
    
-.. image:: 5.jpg
+.. image:: 21.png
 
 * **Step12:** Click on search to search for a bot or to create a new bot.  
    
-.. image:: 5.jpg
+.. image:: 22.png
