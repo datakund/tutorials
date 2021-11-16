@@ -9,7 +9,7 @@ How to make a bot using datakund
 
    * Pin the Datakund stuidos to the toolbar.
    
-   * .. image:: Screenshot 2021-11-15 165708.jpg
+.. image:: Screenshot 2021-11-15 165708.jpg
 
 #. **Step2:** On the chrome toolbar, click Datakund extension to create a new bot. A extension windows shows as shown in Image 2.
 
