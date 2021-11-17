@@ -7,7 +7,7 @@ Create a bot that login's twitter with cookies
    
 * **Step2:** Click on the Datakund extension, to minimise the extension bar.
 
-    * Lets go to https://twitter.com/i/flow/login (linkedin signup page), before training the bot.
+    * Lets go to https://twitter.com/i/flow/login (twitter signup page), before training the bot.
    
 .. image:: 121.png
    
