@@ -37,12 +37,12 @@ Create a bot that searches for keyword in youtube
 
   * enter the keyword to be searched (microsoft).
    
-.. image:: 106.png
+.. image:: 107.png
 
 * **Step8:** After clicking "run",Now wait for the bot to load.
    
-.. image:: 107.png
+.. image:: 108.png
 
 * **Step9:** As shown in the Image below, bot will show the search results of the new keyword.
    
-.. image:: 108.png
+.. image:: 109.png
