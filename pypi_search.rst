@@ -7,7 +7,7 @@ Create a bot that searches for keyword in youtube
    
 * **Step2:** Click on the Datakund extension, to minimise the extension bar.
 
-    * Lets go to https://pypi.com/ before training the bot.
+    * Lets go to https://pypi.org/ before training the bot.
    
 .. image:: 111.png
    
@@ -19,9 +19,9 @@ Create a bot that searches for keyword in youtube
    
 .. image:: 113.png
 
-* **Step5:** Now refresh the page, to add URL(https://pypi.com/) to the event.
+* **Step5:** Now refresh the page, to add URL(https://pypi.org/) to the event.
  
-  * Can also add the URL to event by typing "pypi.com" in search bar in toolbar. 
+  * Can also add the URL to event by typing "pypi.org" in search bar in toolbar. 
   
   * Datakund extension window minimises.
 
