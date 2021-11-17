@@ -1,4 +1,4 @@
-Create a bot that searches for keyword in youtube
+Create a bot that searches for keyword in pypi.org
 ************
 
 * **Step1:** Create a new bot naming "pypi_search".
