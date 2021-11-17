@@ -17,17 +17,17 @@ Create a bot that login's twitter with cookies
    
    * At the input column, type cookies and save. Now go back to train the bot.
    
-.. image:: 122.png
+.. image:: 123.png
    
 * **Step4:** Click on Datakund extension again, and click "train" to start training our new bot (twitter_login_cookies).
 
-.. image:: 123.png
+.. image:: 124.png
 
 * **Step5:** Now refresh the page, to add URL to the event.
    
    * Minimise Datakund extension windows.
    
-.. image:: 124.png
+.. image:: 125.png
 
 * **Step6:** Now right click anywhere on the screen, to see datakund in the menu.
 
@@ -37,7 +37,7 @@ Create a bot that login's twitter with cookies
 
    * Now the events should be in order as shown in the Image.
    
-.. image:: 125.png
+.. image:: 126.png
 
 * **Step7:** Now to run the bot click "run" button and paste the cookies in the cookie extension (open a fresh chrome browser open linkedin and login, after login in install cookie extension and copy the cookies of logged in linkedin page).
    
@@ -45,15 +45,15 @@ Create a bot that login's twitter with cookies
    
    * Now click "Run"
    
-.. image:: 126.png
+.. image:: 127.png
 
 * **Step8:** After running the bot, wait for the bot to do the job as shown in Image 13. 
 
    * It will automatically login with a single press.
    
-.. image:: 127.png
+.. image:: 128.png
 
 
 * **Step8:** As shown in the Image 14, bot will login twitter without entering any credentials.
 
-.. image:: 128.png
+.. image:: 129.png
