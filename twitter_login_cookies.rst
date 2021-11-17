@@ -1,4 +1,4 @@
-Create a bot that login's LinkedIn with cookies
+Create a bot that login's twitter with cookies
 ************
 
 * **Step1:** Create a new bot naming "twitter_login_cookies".
